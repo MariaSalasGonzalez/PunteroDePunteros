@@ -1,0 +1,8 @@
+﻿  Ferreteria.cpp
+c:\users\maria salas\source\repos\punterodepunteros\punterodepunteros\ferreteria.cpp(74): warning C4244: 'return': conversión de 'float' a 'int'; posible pérdida de datos
+  Herramienta.cpp
+  Main.cpp
+  Menu.cpp
+  Generando código...
+c:\users\maria salas\source\repos\punterodepunteros\punterodepunteros\herramienta.cpp(44): warning C4172: devolución de dirección de la variable local o temporal
+  PunteroDePunteros.vcxproj -> C:\Users\Maria Salas\source\repos\PunteroDePunteros\Debug\PunteroDePunteros.exe
